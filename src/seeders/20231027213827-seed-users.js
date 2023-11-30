@@ -7,7 +7,7 @@ module.exports = {
       nombre: 'Rescatemos juntoss',
       nombre_usuario: 'rescatemosjunto',
       contrasena: 'flo123',
-      mail: 'rescatemoss@gmail.com',
+      mail: 'rescatar@gmail.com',
       tipo: 'fundación',
       createdAt: new Date(),
       updatedAt: new Date(),
