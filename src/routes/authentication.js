@@ -143,7 +143,7 @@ router.get("user.getByMail", "/user/getDatosUser/:mail", async (ctx) => {
       }
 
       ctx.status = 200;
-      ctx.body = { nombre: user.nombre, foto: user.foto, nombre_usuario: user.nombre_usuario };
+      ctx.body = { nombre: user.nombre, foto: user.foto, nombre_usuario: user.nombre_usuario, mail: user.mail };
       console.body = { fundacion: user.fundacion }
     } catch (error) {
       ctx.status = 400;
