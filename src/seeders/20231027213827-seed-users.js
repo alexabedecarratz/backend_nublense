@@ -5,7 +5,7 @@ module.exports = {
 
     {
       nombre: 'Rescatemos juntoss',
-      nombre_usuario: 'rescatemosjuntoss',
+      nombre_usuario: 'rescatemosjunto',
       contrasena: 'flo123',
       mail: 'rescatemoss@gmail.com',
       tipo: 'fundación',
