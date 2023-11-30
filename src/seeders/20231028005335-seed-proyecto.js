@@ -8,7 +8,7 @@ module.exports = {
       fecha_inicio: '2023-8-11',
       fecha_finalizacion: '2025-8-11',
       objetivos: 'Encontrar hogar a perritos',
-      estado: 'Activa',
+      categoria: 'Rescate Animal y Promoción de Adopción',
       proyect_userId: '3',
       createdAt: new Date(),
       updatedAt: new Date(),
