@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "type": "commonjs",
   "scripts": {
-    "start": "node src/app.js",
+    "start": "node src/index.js",
     "deploy": "node start.js",
     "dev": "nodemon src/index.js",
     "build": "vite build",
