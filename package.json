@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "type": "commonjs",
   "scripts": {
-    "start": "babel-node src/index.js",
+    "start": "node src/app.js",
     "deploy": "node start.js",
     "dev": "nodemon src/index.js",
     "build": "vite build",
